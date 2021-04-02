@@ -7,7 +7,7 @@
              <li className='nav__item'>
                  <Link className="nav_item_link" to={props.path}> 
                  <figure className="nav__item__pic-wrap" data-category={props.label}>
-                     <img src={props.src} alt="image"
+                     <img src={props.src} alt="placeholder"
                      className="nav__item__img"/>
                  </figure>
                  <div className='nav__item__info'>

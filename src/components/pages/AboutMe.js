@@ -21,9 +21,7 @@ export default function AboutMe() {
         <h1 class="content-subhead">Summary</h1>
 
         <section class="post">
-            <header class="post-header">
-                <h2 class="post-title"></h2>
-            </header>
+            
             <div class="post-description">
                 <p>
                 I am a hardworking and optimistic software developing student offering many positive qualities including,
@@ -37,9 +35,7 @@ export default function AboutMe() {
                 <h1 class="content-subhead">Qualities</h1>
 
         <section class="post">
-            <header class="post-header">
-                <h2 class="post-title"></h2>
-            </header>
+           
             <div class="post-description">
             <div>
                 <ul class='list1'>
@@ -65,9 +61,7 @@ export default function AboutMe() {
                 <h1 class="content-subhead">Education</h1>
 
         <section class="post">
-            <header class="post-header">
-                <h2 class="post-title"></h2>
-            </header>
+           
             <div class="post-description">
                 <p>
                 <h2>VIRGINIA COMMONWEALTH UNIVERSITY</h2>
