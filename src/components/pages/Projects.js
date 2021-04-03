@@ -27,7 +27,7 @@ export default function Projects() {
                 <p>
                     The website you're viewing right now is my portfolio website. The site is created using JS, React, HTML, CSS, FontAwesome. 
                     I created this site as a way to learn javascript as well as react and it is my first react project. The site also 
-                    serves as a portfolio page for my resume.
+                    serves as a portfolio page for my resume. This site is hosted using Netlify.
                 </p>
             </div>
         </section>

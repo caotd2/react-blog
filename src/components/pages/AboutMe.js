@@ -11,8 +11,8 @@ export default function AboutMe() {
 
     <div class="sidebar pure-u-1 pure-u-md-1-4">
         <div class="header">
-            <h1 class="brand-title">Hello</h1>
-            <h2 class="brand-tagline">Everyone</h2>
+            <h1 class="brand-title">About</h1>
+            <h2 class="brand-tagline">Tommy Cao</h2>
         </div>
      </div>
     
