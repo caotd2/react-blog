@@ -43,12 +43,10 @@ export default function AboutMe() {
                     <li>Adaptability</li> 
                     <li>Quick Learner</li> 
                     <li>Leadership skills</li> 
-                    <li>optimistic</li> 
-                    <li>self-motivated</li> 
-                    <li>optimistic</li> 
+                    <li>Optimistic</li> 
+                    <li>Self-motivated</li> 
                     <li>Flexibility</li> 
                     <li>Dependable</li>
-                   
                 </ul>
                 <br />
             </div>
