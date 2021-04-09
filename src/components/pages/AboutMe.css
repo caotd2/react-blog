@@ -1,4 +1,18 @@
 
+.list1
+{
+  width: 30em;
+}  
+.list1 li
+{
+  width: 30em;
+  float: left;
+  width: 10em;
+} 
+br
+{
+  clear: left;
+}  
   .content-subhead {
     text-transform: uppercase;
     color: #aaa;
