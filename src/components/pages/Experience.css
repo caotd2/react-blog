@@ -1,9 +1,10 @@
 
-.list1
+.list2
 {
-  width: 30em;
+  width: 20em;
+  
 }  
-.list1 li
+.list2 li
 {
   width: 30em;
   float: left;

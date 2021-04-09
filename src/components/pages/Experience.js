@@ -26,17 +26,17 @@ export default function Experience() {
             </header>
             <div class="post-description">
                 <div>
-                <ul class='list1'>
+                <ul class='list2'>
                     <li>Java</li> 
-                    <li>MySql</li> 
                     <li>AWS</li> 
                     <li>Python</li> 
-                    <li>Linux</li> 
-                    <li>Adobe XD</li> 
+                    <li>MySql</li> 
                     <li>C</li> 
-                    <li>Android Studio</li> 
-                    <li>JUnit Testing</li> 
+                    <li>Adobe XD</li> 
                     <li>JavaScript</li> 
+                    <li>Android Studio</li> 
+                    <li>Linux</li> 
+                    <li>Unit Testing</li> 
                     <li>React</li> 
                     <li>Microsoft office</li> 
                     <li>Github</li> 
