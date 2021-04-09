@@ -22,7 +22,7 @@ export default function Experience() {
 
         <section class="post">
             <header class="post-header">
-                <h2 class="post-title">Languages/Technology</h2>
+                <h2 class="post-title">Languages/Frameworks</h2>
             </header>
             <div class="post-description">
                 <div>

@@ -18,7 +18,7 @@ export default function AboutMe() {
     
 
         <div class="posts">
-        <h1 class="content-subhead">Summary</h1>
+        <h1 class="content-subhead">Overview</h1>
 
         <section class="post">
             

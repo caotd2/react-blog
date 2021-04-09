@@ -50,7 +50,7 @@ import { Button } from './Button';
                     </li>
                     <li className='nav-item'>
                       <Link to='/experience' className='nav-links' onClick={closeMobileMenu}>
-                        Experience/Knowledge
+                        Experience/Skills
                       </Link>
                     </li>
                     <li className='nav-item'>
