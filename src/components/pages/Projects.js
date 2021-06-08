@@ -34,6 +34,21 @@ export default function Projects() {
 
         <div class="posts">
                 <h1 class="content-subhead">Projects</h1>
+        
+        <section class="post">
+            <header class="post-header">
+                <h2 class="post-title">NASA Pysche Mission Hall Thruster Plume Data Analysis</h2>
+            </header>
+            <div class="post-description">
+                <p>
+                VCU capstone project in collaboration with Arizona State Univeristy and NASA. Worked on a four person team to apply machine learning and related techniques
+                to NASA-provided plume measurements to devise a better technique for fitting experimental data and computing the Hall Thruster centroid. Provided NASA with 
+                an application to take in data via excel or txt files to automatically output multiple models and centroid calculations. This work is a result of the Psyche 
+                student collaborations component of NASA's Psyche mission. Technologies for this project consisted of python programming language, Tkinter, MatPlotLib, Scikit-learn,
+                Keras, Tensorflow, and SciPy.
+                </p>
+            </div>
+        </section>
 
         <section class="post">
             <header class="post-header">
