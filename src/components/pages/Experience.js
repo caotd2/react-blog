@@ -40,6 +40,10 @@ export default function Experience() {
                     <li>React</li> 
                     <li>Microsoft office</li> 
                     <li>Github</li> 
+                    <li>Flask</li>
+                    <li>Bootstrap</li>
+                    <li>Operating Systems</li>
+                    <li>UX/UI design</li>
                 </ul>
                 <br />
             </div>
