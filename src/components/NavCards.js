@@ -11,19 +11,19 @@ function NavCards() {
                 <div className="navcards_wrapper">
                     <ul className="navcards__items">
                         <NavItem 
-                        src="images/image-4.jpeg"
+                        src="images/back.jpeg"
                         text="More on Tommy"
                         label="About Me"
                         path='/aboutme'
                         />
                         <NavItem 
-                        src="images/image-2.jpeg"
+                        src="images/back.jpeg"
                         text="My Experience"
                         label="Knowledge"
                         path='/experience'
                         />
                         <NavItem 
-                        src="images/image-1.jpeg"
+                        src="images/back.jpeg"
                         text="View Projects"
                         label="Projects"
                         path='/projects'
